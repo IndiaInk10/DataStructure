@@ -1,2 +1,2 @@
-# DataSturcture
+# DataStructure
 Study DataStructure and Implement
